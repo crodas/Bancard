@@ -6,7 +6,7 @@ Una librería *simple* implementando lo que necesitaba para interactuar con banc
 
 Los ejemplos están en demo_web/
 
-    ../demo_config.php <- conflagración de base de datos y aplicación
+    ../demo_config.php <- configuración de base de datos y aplicación
     cobrar.php <- ejemplo de como cobrar
     confirmacion.php <- bancard llama a esta URL cuando el pago esta realizado
     pedido.php <- bancard llama a esta URL para saber los detalles del pedido ("brillante!")
