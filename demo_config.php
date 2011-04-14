@@ -8,7 +8,7 @@
  * ----------------------------------------------------------------------------
  */
 
-require "../lib/Bancard.php";
+require "lib/Bancard.php";
 
 /**
  *  Demostracion de como configurar Bancard con MySQL
